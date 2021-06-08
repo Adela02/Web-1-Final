@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap');
+
+.flexbox-container{
+  display: flex;
+}
+
+#rectangle1 {
+  position: absolute;
+width: 1368px;
+height: 97px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+}
+
+.home{
+  position: absolute;
+width: 240px;
+height: 49px;
+left: 137px;
+top: 24px;
+font-family: Antic Didone;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #D2691E;
+}
+
+.about{
+  position: absolute;
+width: 240px;
+height: 49px;
+left: 422px;
+top: 24px;
+font-family: Antic Didone;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #D2691E;
+}
+
+.gallery{
+  position: absolute;
+width: 240px;
+height: 49px;
+left: 707px;
+top: 24px;
+font-family: Antic Didone;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #D2691E;
+}
+
+.contact{
+  position: absolute;
+width: 240px;
+height: 49px;
+left: 992px;
+top: 24px;
+font-family: Antic Didone;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #D2691E;
+}
+
+#rectangle2 {
+  position: absolute;
+width: 1368px;
+height: 320.54px;
+left: 0px;
+top: 96.23px;
+background: #FAF2E6;
+}
+
+svg {
+  position: absolute;
+width: 1368px;
+height: 320.54px;
+left: 0px;
+top: 96.23px;
+background: #FAF2E6;
+}
+
+#rectangle3 {
+  position: absolute;
+width: 1368px;
+height: 991px;
+left: 0px;
+top: 414px;
+background: #D2691E;
+}
+
+.summary {
+  position: absolute;
+width: 513px;
+height: 172px;
+left: 103px;
+top: 537px;
+font-family: Antic Didone;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 57px;
+color: #FFFFFF;
+}
+
+.education {
+  position: absolute;
+width: 563px;
+height: 172px;
+left: 717px;
+top: 688px;
+font-family: Antic Didone;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 57px;
+color: #FFFFFF;
+}
+
+.experience {
+  position: absolute;
+width: 513px;
+height: 250px;
+left: 171px;
+top: 906px;
+font-family: Antic Didone;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 57px;
+color: #FFFFFF;
+}
+
+.services{
+  position: absolute;
+width: 438px;
+height: 350px;
+left: 813px;
+top: 1031px;
+font-family: Antic Didone;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 57px;
+color: #FFFFFF;
+}
+
+ol {
+  list-style-type: none
+}
+
+.rectangle4 {
+  position: absolute;
+width: 1368px;
+height: 142px;
+left: 0px;
+top: 1405px;
+background: #FFFFFF;
+}
+
+.follow {
+  position: absolute;
+width: 279px;
+height: 79px;
+left: 73px;
+top: 1436px;
+font-family: Antic Didone;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+display: flex;
+align-items: center;
+color: #D2691E;
+}
+
+.insta {
+  position: absolute;
+width: 111px;
+height: 111px;
+left: 1126px;
+top: 1420px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  color: #D2691E;
+}
+
+.facebook {
+ position: absolute;
+width: 81px;
+height: 69px;
+left: 1237px;
+top: 1436px;
+font-family: Segoe UI Symbol;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 128px;
+display: flex;
+align-items: center;
+text-align: center;
+border: 5px solid #D2691E;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+@media (min-width: 600px) {
+  p{
+    font-size: 2.25rem;
+  }
+}
+
+@media (min-width: 600px) {
+  ol{
+    font-size: 2.25rem;
+  }
+}
